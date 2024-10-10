@@ -12,7 +12,7 @@ weight: 42
 </figure>
 
 <figure class="PlaylistFig" style=" margin-left: 2vw">
-<iframe style="width: 35vw; height: 20vw;" src="https://www.youtube.com/playlist?list=PLb2e9HwqRmUb5thW8c6f9iQNzqifhUAFl" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-inpicture" allowfullscreen>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=kUGeF0jMlp6YDKWl&amp;list=PLb2e9HwqRmUb5thW8c6f9iQNzqifhUAFl" title="Community Presentations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 </iframe>
     <h4>Community Meetings</h4>
     <p>This playlist contains our community meeting presentations and group meetings both in-person and online.</p>
